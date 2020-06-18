@@ -1,0 +1,121 @@
+{
+	"workbench.colorCustomizations": {
+		"[Spotify]": {
+			// hyper.is colors
+			// black: '#000000'
+			// red: '#C51E14'
+			// green: '#1DC121'
+			// yellow: '#C7C329'
+			// blue: '#0A2FC4'
+			// magenta: '#C839C5'
+			// cyan: '#20C5C6'
+			// white: '#C7C7C7'
+			// lightBlack: '#686868'
+			// lightRed: '#FD6F6B'
+			// lightGreen: '#67F86F'
+			// lightYellow: '#FFFA72'
+			// lightBlue: '#6A76FB'
+			// lightMagenta: '#FD7CFC'
+			// lightCyan: '#68FDFE'
+			// lightWhite: '#FFFFFF'
+			"editor.background": "#111111",
+			"activityBarBadge.background": "#FEA30F",
+			"statusBar.border": "#111111",
+			"statusBar.debuggingBackground": "#FEA30F",
+			"statusBarItem.hoverBackground": "#FEA30F",
+			"sideBar.background": "#111111",
+			"sideBarSectionHeader.background": "#111111",
+			"window.activeBorder": "#111111",
+			"window.inactiveBorder": "#111111",
+			"editorGroupHeader.tabsBorder": "#111111",
+			"editorGroupHeader.tabsBackground": "#111111",
+			"tab.activeBackground": "#111111",
+			"tab.inactiveBackground": "#111111",
+			"titleBar.activeBackground": "#111111",
+			"titleBar.inactiveBackground": "#111111",
+			"sideBar.border": "#111111",
+			"editorLineNumber.activeForeground": "#ffffff",
+			"editorLineNumber.foreground": "#ffffff50",
+			"statusBar.background": "#111111",
+			"panel.border": "#111111",
+			"panel.background": "#171717",
+			"terminal.background": "#171717"
+		},
+		"[Rosé Pine]": {
+			"activityBar.background": "#1f1d2eff",
+			"titleBar.activeBackground": "#1f1d2eff",
+			"scrollbarSlider.background": "#706e862a",
+			"scrollbarSlider.activeBackground": "#1f1d2eff",
+			"minimap.background": "#191724ff",
+			"minimapSlider.background": "#706e862a",
+		}
+	},
+	"indentRainbow.colors": [
+		"rgba(255,255,64,0.15)",
+		"rgba(127,255,127,0.15)",
+		"rgba(255,127,255,0.15)",
+		"rgba(79,236,236,0.15)"
+	],
+	"editor.formatOnSave": true,
+	"git.autofetch": true,
+	"python.dataScience.sendSelectionToInteractiveWindow": true,
+	"git.enableSmartCommit": true,
+	"npm.enableTouchbar": true,
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorTheme": "Dracula",
+	"sync.gist": "69b1297a588b6d614379d23a1d4f54b5",
+	"window.zoomLevel": 0,
+	"material-icon-theme.activeIconPack": "react",
+	"workbench.sideBar.location": "left",
+	"python.dataScience.askForKernelRestart": false,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"indenticator.inner.color.dark": "#888",
+	"editor.renderWhitespace": "all",
+	"kite.showWelcomeNotificationOnStartup": false,
+	"editor.tabCompletion": "on",
+	"editor.quickSuggestionsDelay": 0,
+	"editor.renderLineHighlight": "all",
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"vsicons.dontShowNewVersionMessage": true,
+	"editor.fontFamily": "JetBrains Mono,Hack Nerd Font, Helvetica, Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontLigatures": true,
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"python.jediEnabled": false,
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[python]": {},
+	"editor.minimap.showSlider": "always",
+	"todohighlight.keywords": [
+		{
+			"text": "HACK:",
+			"color": "#ffffff",
+			"backgroundColor": "#bd93f9",
+			"overviewRulerColor": "#bd93f9",
+			"isWholeLine": true,
+			"border": "1px solid #bd93f9",
+			"borderRadius": "10px"
+		},
+		{
+			"text": "MARK:",
+			"color": "#ffffff",
+			"backgroundColor": "#6272a4",
+			"overviewRulerColor": "#6272a4",
+			"isWholeLine": false,
+			"border": "1px solid #6272a4",
+			"borderRadius": "5px"
+		}
+	],
+	"highlight-matching-tag.styles": {
+		"opening": {
+			"full": {
+				"surround": "#8be9fd"
+			}
+		}
+	},
+	"editor.minimap.enabled": true
+}
